@@ -1,0 +1,14 @@
+{
+  "name": "node_vitest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "Nitish Singh",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^1.6.0"
+  }
+}
