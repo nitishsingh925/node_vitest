@@ -1,1 +1,1 @@
-node_vitest
+nodejs_vitest
